@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1706021460 source:d:\coding\test.1\sperate.cpp
+	<vector>
+	<string>
+	<cmath>
+	<iostream>
+
+1706021522 source:d:\coding\test.1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+	"main.h"
+
+1706020829 d:\coding\test.1\main.h
+
+1706021522 source:d:\coding\test.1\bracket.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+
